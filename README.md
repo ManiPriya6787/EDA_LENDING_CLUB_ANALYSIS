@@ -38,3 +38,8 @@ To analyze Lending Club data and identify characteristics of risky loan applican
 - Avoid approving loans under **14k** for applicants earning < **60k**.
 - Give preference to **verified** applicants with longer employment history.
 - Tailor interest rates and terms based on **income group** and **loan purpose**.
+
+## 📚 References
+
+Special thanks to <a https://futurevisioncomputers.com> **Future Vision Computer Institute**  </a>for their mentorship and support throughout this project.
+
