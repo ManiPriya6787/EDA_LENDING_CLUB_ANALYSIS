@@ -41,5 +41,5 @@ To analyze Lending Club data and identify characteristics of risky loan applican
 
 ## 📚 References
 
-Special thanks to <a https://futurevisioncomputers.com > **Future Vision Computer Institute**  </a>for their mentorship and support throughout this project.
+Special thanks to <a href=https://futurevisioncomputers.com > **Future Vision Computer Institute**  </a>for their mentorship and support throughout this project.
 
